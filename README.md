@@ -1,6 +1,4 @@
-# Template for CPSC2720 Assignments, Labs, and Projects
-
-Last Updated: 2022-12-15 by Nicole Wilson &lt;n.wilson@uleth.ca&gt;
+Last Updated: 2023-03-25 by Gurmann Basran
 
 Notes:
 
